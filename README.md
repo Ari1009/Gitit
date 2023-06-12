@@ -17,7 +17,7 @@
 
 ## About The Project
 
-![Screen Shot](https://gitit.vercel.app/)
+![1](https://gitit.vercel.app/)
 
 The application helps users efficiently manage their GitHub repositories and track related issues. It provides a centralized platform for organizing projects, facilitating collaboration, and streamlining workflows. It supports mentorship and onboarding by guiding new contributors and recommending suitable projects. The application promotes knowledge sharing by facilitating easy access to information across repositories. Additionally, it enables progress tracking through metrics and analytics, empowering users to evaluate their contributions and monitor project health. Overall, the application enhances productivity, fosters community engagement, and improves project outcomes on GitHub.
 
